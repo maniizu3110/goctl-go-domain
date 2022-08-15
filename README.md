@@ -1,0 +1,1 @@
+# goctl-go-domain
