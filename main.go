@@ -16,4 +16,5 @@ func main() {
     }
     fmt.Printf("dir: %s \n", plugin.Dir)
     fmt.Println("Enjoy anything you want.")
+	fmt.Printf("plugin.Api: %+v \n", plugin.Api)
 }
